@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "2g+bJxynU7GsG0NfMqB5fRAs0K/BOQNh5QDHTb2+RVg=",
+  "Source": "Simposium2023",
+  "BasePath": "_content/Simposium2023",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Simposium2023\\wwwroot",
+      "Source": "Simposium2023",
+      "ContentRoot": "C:\\Users\\cdmr_\\source\\repos\\Simposium2023\\Simposium2023\\wwwroot\\",
+      "BasePath": "_content/Simposium2023",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\cdmr_\\source\\repos\\Simposium2023\\Simposium2023\\wwwroot\\swagger-ui\\custom.css",
+      "SourceId": "Simposium2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cdmr_\\source\\repos\\Simposium2023\\Simposium2023\\wwwroot\\",
+      "BasePath": "_content/Simposium2023",
+      "RelativePath": "swagger-ui/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\custom.css"
+    },
+    {
+      "Identity": "C:\\Users\\cdmr_\\source\\repos\\Simposium2023\\Simposium2023\\wwwroot\\swagger-ui\\custom.js",
+      "SourceId": "Simposium2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cdmr_\\source\\repos\\Simposium2023\\Simposium2023\\wwwroot\\",
+      "BasePath": "_content/Simposium2023",
+      "RelativePath": "swagger-ui/custom.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\cdmr_\\source\\repos\\Simposium2023\\Simposium2023\\wwwroot\\swagger-ui\\logo-isc.jpg",
+      "SourceId": "Simposium2023",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cdmr_\\source\\repos\\Simposium2023\\Simposium2023\\wwwroot\\",
+      "BasePath": "_content/Simposium2023",
+      "RelativePath": "swagger-ui/logo-isc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\logo-isc.jpg"
+    }
+  ]
+}
